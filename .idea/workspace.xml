@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5907136a-ffec-4cbe-8198-9ae590c0e2c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1fBaVrS6CzUjYeao8y9pILCG5wa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react-hooks" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gao\IdeaProjects\starlink\starlink\src\assets\images" />
+      <recent name="C:\Users\gao\IdeaProjects\starlink\starlink\src\tests" />
+      <recent name="C:\Users\gao\IdeaProjects\starlink\starlink\src\components" />
+      <recent name="C:\Users\gao\IdeaProjects\starlink\starlink\src\styles" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5907136a-ffec-4cbe-8198-9ae590c0e2c1" name="Default Changelist" comment="" />
+      <created>1595693965391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595693965391</updated>
+      <workItem from="1595693969770" duration="313000" />
+      <workItem from="1595694321594" duration="6525000" />
+      <workItem from="1595901621437" duration="9319000" />
+      <workItem from="1596073844097" duration="22709000" />
+      <workItem from="1596488489063" duration="8421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="230" key="#Project_Structure" timestamp="1595693973402">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="556" y="230" key="#Project_Structure/0.0.1368.912@0.0.1368.912" timestamp="1595693973402" />
+    <state x="932" y="430" key="FileChooserDialogImpl" timestamp="1596503314443">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="932" y="430" key="FileChooserDialogImpl/0.0.1368.912@0.0.1368.912" timestamp="1596503314443" />
+    <state x="155" y="115" key="SettingsEditor" timestamp="1595695404474">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="155" y="115" key="SettingsEditor/0.0.1368.912@0.0.1368.912" timestamp="1595695404474" />
+    <state x="527" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1596489286022">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="527" y="359" key="com.intellij.ide.util.TipDialog/0.0.1368.912@0.0.1368.912" timestamp="1596489286022" />
+    <state x="102" y="368" key="new project wizard" timestamp="1596503103293">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="102" y="368" key="new project wizard/0.0.1368.912@0.0.1368.912" timestamp="1596503103293" />
+    <state x="417" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1596081200077">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="417" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1368.912@0.0.1368.912" timestamp="1596081200077" />
+  </component>
+</project>

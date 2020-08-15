@@ -1,0 +1,15 @@
+.main{
+    position: relative;
+    height: 780px;
+}
+.left-side {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 760px;
+    padding: 20px;
+    width:330px;
+}
+.right-side {
+    margin-left: 320px;
+}
